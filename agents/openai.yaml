@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 316"
+  short_description: "触觉小雕：上半保留原照，下半把主体收成毛毡或软陶般的小型收藏雕塑"
+  default_prompt: "Use $xxd-panel-316 to transform my photograph following the complete canonical source brief."
