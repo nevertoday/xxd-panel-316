@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 316｜Tactile Mini Sculpture: keeps the photo and condenses its subject into one small handmade-looking 3D symbol — simplified sculptural geometry with rounded volumes, soft, gently exaggerated, not quite symmetrical proportions, and only one to three key identifying features. Matte tactile materials such as paper fibre, felt, soft clay, woven textile or wood, with tiny edge errors and handmade marks, not realistic CG or plastic toys. A controlled palette of two to five colours such as cream, warm orange, rust red, denim blue and sage green; the piece stands alone in clean whitespace with no extra elements, plus a very short title or collection number in a small modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-316 or asks for a felt, clay or tactile 3D icon, handcrafted collectible symbol from a photo.",
+  "short_description": "触觉小雕：把照片主体收成毛毡、软陶或木纸般手作质感的一枚小型收藏雕塑符号",
+  "zh-CN": {
+    "name": "触觉小雕",
+    "tagline": "保留原照片，把主体收成一枚像毛毡或软陶手工捏出来的小收藏雕塑。",
+    "look": "照片保持原样，设计部分不是平面画，而是一个看上去有体积的小物件：圆润块面、柔和比例、轻微夸张、不完全对称，只保留一到三个最关键的识别特征，比如一种轮廓、一个姿态或一件标志物。表面是哑光的手作材料，纸纤维、毛毡、织物、软陶或木纹，带细小的边缘误差和手工痕迹，不是光滑的 CG 或塑料玩具。颜色两到五种，如奶油白、暖橙、锈红、牛仔蓝、鼠尾草绿。它单独放在干净的空白里，不加别的元素；旁边一行极短的标题或收藏编号。",
+    "traits": [
+      "触觉雕塑",
+      "毛毡软陶",
+      "圆润块面",
+      "收藏徽章",
+      "干净留白"
+    ],
+    "good": [
+      "特征鲜明、形体饱满的主体：一只柴犬、一个戴围巾的人、一辆复古小车、一颗仙人球",
+      "有代表色或标志物的照片：穿黄雨衣的孩子、拿着气球的人、红色的邮筒",
+      "想做成收藏卡、潮玩风头像或品牌小摆件形象的照片"
+    ],
+    "poor": [
+      "必须保留完整身体或复杂动作的照片：舞蹈全身、运动瞬间",
+      "要交代环境的照片：风景、室内全景、街道",
+      "想要写实 CG、游戏资产、塑料玩具感或卡通角色的需求"
+    ]
+  },
+  "en": {
+    "name": "Tactile Mini Sculpture",
+    "tagline": "Keeps your photo and turns the subject into one small collectible sculpture that looks hand-made from felt or soft clay.",
+    "look": "The photo stays as it is. The design is not a flat drawing but a small object with volume: rounded masses, soft proportions, gentle exaggeration and imperfect symmetry, keeping only one to three key identifying features such as an outline, a pose or a signature object. Its surface is a matte handmade material, such as paper fibre, felt, textile, soft clay or wood, with tiny edge errors and maker's marks, never glossy CG or a plastic toy. Two to five colours are used, such as cream, warm orange, rust red, denim blue and sage green. It stands alone in clean empty space with nothing else added, beside one very short title or collection number.",
+    "traits": [
+      "Tactile sculpture",
+      "Felt and soft clay",
+      "Rounded volumes",
+      "Collectible badge",
+      "Clean whitespace"
+    ],
+    "good": [
+      "Distinctive, full-bodied subjects: a shiba inu, a person in a scarf, a vintage small car, a round cactus",
+      "Photos with a signature colour or object: a child in a yellow raincoat, someone holding a balloon, a red postbox",
+      "Photos you want as a collector's card, a designer-toy style avatar or a small brand figure"
+    ],
+    "poor": [
+      "Photos that need the full body or a complex action: full-length dance, sports moments",
+      "Photos that need their setting: landscapes, whole interiors, streets",
+      "Requests for realistic CG, game assets, a plastic-toy look or cartoon characters"
+    ]
+  },
+  "ja": {
+    "name": "手ざわりの小彫刻",
+    "tagline": "写真はそのままに、主役をフェルトや樹脂粘土で手作りしたような小さなコレクション彫刻にします。",
+    "look": "写真はそのまま残し、デザイン側は平面の絵ではなく、量感のある小さな物になります。丸みのある塊、柔らかな比率、控えめな誇張、完全ではない左右対称で、輪郭、姿勢、象徴的な持ち物など、見分けるための特徴を一〜三つだけ残します。表面は紙の繊維、フェルト、織物、樹脂粘土、木などのマットな手仕事の素材で、縁の小さなずれや作り手の跡が残り、つるつるの CG やプラスチックのおもちゃにはなりません。色は二〜五色で、クリーム、暖かいオレンジ、錆色、デニムブルー、セージグリーンなどです。すっきりした余白にひとつだけ置かれ、ほかの要素は加えず、横にごく短いタイトルかコレクション番号を添えます。",
+    "traits": [
+      "触感のある彫刻",
+      "フェルトと粘土",
+      "丸い塊",
+      "コレクションのバッジ",
+      "すっきりした余白"
+    ],
+    "good": [
+      "特徴がはっきりした、ふっくらした主役：柴犬、マフラーの人、レトロな小型車、丸いサボテン",
+      "象徴的な色や持ち物がある写真：黄色いレインコートの子ども、風船を持つ人、赤いポスト",
+      "コレクションカード、デザイナートイ風のアイコン、ブランドの小さな置物にしたい写真"
+    ],
+    "poor": [
+      "全身や複雑な動きを残したい写真：ダンスの全身、スポーツの瞬間",
+      "周りの環境が必要な写真：風景、室内の全景、街並み",
+      "写実的な CG、ゲーム用素材、プラスチックのおもちゃ感、キャラクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "촉감 미니 조각",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 펠트나 점토로 손수 빚은 듯한 작은 소장용 조각으로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 평면 그림이 아니라 부피감 있는 작은 물건이 됩니다. 둥근 덩어리, 부드러운 비율, 살짝 과장된 형태, 완전하지 않은 대칭으로, 윤곽이나 자세, 상징적인 소지품처럼 알아보는 데 필요한 특징을 한두 가지에서 세 가지만 남깁니다. 표면은 종이 섬유, 펠트, 직물, 소프트 클레이, 나무 같은 무광 수공예 재료로, 가장자리의 작은 오차와 만든 손의 흔적이 남으며 매끈한 CG나 플라스틱 장난감이 되지 않습니다. 색은 두 가지에서 다섯 가지로 크림, 따뜻한 주황, 녹슨 빨강, 데님 블루, 세이지 그린 등을 씁니다. 깔끔한 여백에 혼자 놓이고 다른 요소는 더하지 않으며, 옆에 아주 짧은 제목이나 소장 번호를 붙입니다.",
+    "traits": [
+      "촉감 조각",
+      "펠트와 점토",
+      "둥근 덩어리",
+      "소장용 배지",
+      "깔끔한 여백"
+    ],
+    "good": [
+      "특징이 분명하고 통통한 주인공: 시바견, 목도리 두른 사람, 레트로 소형차, 둥근 선인장",
+      "상징적인 색이나 물건이 있는 사진: 노란 우비를 입은 아이, 풍선을 든 사람, 빨간 우체통",
+      "수집 카드, 디자이너 토이풍 프로필, 브랜드 작은 오브제로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "전신이나 복잡한 동작을 살려야 하는 사진: 춤추는 전신, 운동 순간",
+      "주변 환경이 필요한 사진: 풍경, 실내 전경, 거리",
+      "사실적인 CG, 게임 에셋, 플라스틱 장난감 느낌, 캐릭터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "منحوتة صغيرة ملموسة",
+    "tagline": "يحتفظ بصورتك ويحوّل عنصرها إلى منحوتة صغيرة للاقتناء تبدو مصنوعة يدوياً من اللبّاد أو الصلصال الطري.",
+    "look": "تبقى الصورة كما هي، ولا يكون التصميم رسماً مسطحاً بل قطعة صغيرة لها حجم: كتل مستديرة ونِسب ناعمة ومبالغة خفيفة وتناظر غير تام، مع الاحتفاظ بسمة إلى ثلاث سمات أساسية فقط للتعرّف، كخط خارجي أو وضعية أو غرض مميز. سطحها من خامة يدوية مطفأة كألياف الورق أو اللبّاد أو النسيج أو الصلصال الطري أو الخشب، فيها أخطاء صغيرة في الحواف وآثار الصنعة، ولا تشبه المجسّمات الحاسوبية اللامعة ولا الألعاب البلاستيكية. تُستعمل ألوان من اثنين إلى خمسة، مثل الكريمي والبرتقالي الدافئ والأحمر الصدئي والأزرق الجينزي وأخضر المريمية. تقف القطعة وحدها في فراغ نظيف بلا إضافات، وبجانبها عنوان قصير جداً أو رقم في مجموعة.",
+    "traits": [
+      "منحوتة ملموسة",
+      "لبّاد وصلصال",
+      "كتل مستديرة",
+      "شارة للاقتناء",
+      "فراغ نظيف"
+    ],
+    "good": [
+      "عناصر مميزة ممتلئة الهيئة: كلب شيبا، شخص بوشاح، سيارة صغيرة قديمة الطراز، صبّار كروي",
+      "صور فيها لون أو غرض مميز: طفل بمعطف مطر أصفر، شخص يحمل بالوناً، صندوق بريد أحمر",
+      "صور تريدها بطاقة مقتنيات أو صورة شخصية بأسلوب ألعاب المصممين أو مجسّماً صغيراً لعلامة تجارية"
+    ],
+    "poor": [
+      "صور تحتاج إلى الجسم كاملاً أو حركة معقدة: رقص بكامل الجسد، لحظات رياضية",
+      "صور تحتاج إلى محيطها: مناظر طبيعية، لقطات داخلية شاملة، شوارع",
+      "طلب مجسّمات حاسوبية واقعية أو عناصر ألعاب فيديو أو مظهر الألعاب البلاستيكية أو شخصيات كرتونية"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-316
-description: "Create XXD Panel 316 raster artwork: a faithful photograph paired with one small tactile sculptural icon in felt, clay, cloth or wood, not a full character. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-316 or asks for this 触觉小雕 style."
+description: "XXD Panel 316｜Tactile Mini Sculpture: keeps the photo and condenses its subject into one small handmade-looking 3D symbol — simplified sculptural geometry with rounded volumes, soft, gently exaggerated, not quite symmetrical proportions, and only one to three key identifying features. Matte tactile materials such as paper fibre, felt, soft clay, woven textile or wood, with tiny edge errors and handmade marks, not realistic CG or plastic toys. A controlled palette of two to five colours such as cream, warm orange, rust red, denim blue and sage green; the piece stands alone in clean whitespace with no extra elements, plus a very short title or collection number in a small modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-316 or asks for a felt, clay or tactile 3D icon, handcrafted collectible symbol from a photo."
 ---
 
 # XXD Panel 316
